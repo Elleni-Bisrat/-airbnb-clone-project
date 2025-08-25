@@ -1,5 +1,5 @@
 
-🏚️ **Airbnb Clone Project**
+# 🏚️ **Airbnb Clone Project**
   
  📖 **Project Overview**
 This project is a comprehensive full-stack recreation of the well-known accommodation booking platform Airbnb.  
@@ -100,7 +100,7 @@ The following outlines the key roles and their responsibilities:
 
 This section outlines the reusable UI components planned for the AirBnB Clone project, ensuring consistency and efficiency in the frontend development.
 
-###Planned Components
+Planned Components
 
 **1. Navbar**
 - Logo
