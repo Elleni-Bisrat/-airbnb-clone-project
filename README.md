@@ -74,26 +74,16 @@ The main objective is to develop a fully functional web application that enables
  ## 👥 Project Roles and Responsibilities
 Each member of the team plays a vital role in ensuring the project’s success by applying their expertise effectively.  
 The following outlines the key roles and their responsibilities:
-
-
-  | Role                  | Responsibilities                                           | Contribution to Project Success          |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Project Manager**     | Oversees project timeline, coordinates team efforts, and   | Keeps the project on track and ensures timely delivery        |
-                               ensures deliverables are met on schedule
-| **Frontend Developers** | Implement UI components, ensure responsive design, and     | Deliver intuitive, responsive interfaces for users            |
-                               integrate with backend APIs 
-| **Backend Developers**  | Build and maintain APIs, manage the database, implement    | Ensure smooth data flow, functionality, and system reliability|
-                               business logic and server-side functionality 
-| **Designers**           | Create mockups and prototypes, maintain design system,     | Provide a consistent and user-friendly experience             |
-                               ensure high-quality UX 
-| **QA/Testers**          | Write and execute test cases, perform functional and       | Maintain application quality and reduce errors                |
-                               integration testing, report bugs               
-| **DevOps Engineers**    | Manage deployment, CI/CD pipeline, server infrastructure,  | Ensure reliable deployment, scalability, and uptime           |
-                               and application scalability
-| **Product Owner**       | Define project requirements, prioritize features, and      | Aligns development with stakeholder needs and priorities      |
-                               represent stakeholders’ interests
-| **Scrum Master**        | Facilitate agile processes, remove blockers, organize      | Helps the team work efficiently and removes obstacles         |
-                               meetings, and support team productivity
+| Role                   | Responsibilities                                                                 | Contribution to Project Success                               |
+|------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Project Manager        | Oversees timeline, coordinates team, ensures deliverables                       | Keeps project on track and ensures timely delivery            |
+| Frontend Developers    | Implement UI, integrate APIs, ensure responsive design                           | Deliver intuitive and responsive interfaces                  |
+| Backend Developers     | Build APIs, manage database, implement server logic                              | Ensure smooth functionality and reliable data flow            |
+| Designers              | Create mockups, maintain design system                                           | Provide a consistent and user-friendly experience            |
+| QA/Testers             | Write and run test cases, report bugs                                           | Maintain quality and minimize errors                          |
+| DevOps Engineers       | Manage deployment, CI/CD, server infrastructure                                  | Ensure stable and scalable application                        |
+| Product Owner          | Define requirements, prioritize features                                        | Align development with stakeholder needs                      |
+| Scrum Master           | Facilitate agile processes, remove blockers                                      | Help the team work efficiently and stay productive           |
 
 
 ## 🧩 UI Component Patterns
